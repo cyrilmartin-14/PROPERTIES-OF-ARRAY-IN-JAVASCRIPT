@@ -1,0 +1,7 @@
+PROPERTIES OF ARRAY IN JAVASCRIPT
+
+length      - The length proprty reflects the number of elements in an array.
+index       - This index property represents the zero-based index of the match in the string.
+prototype   - The prototype property allows you to add properties and methods to an object.
+constructor - The constructor property returns a reference to the array function that created the object.
+input       - This input property is only present in arrays created by regular expression matches.
